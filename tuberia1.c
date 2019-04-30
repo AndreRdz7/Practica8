@@ -1,4 +1,4 @@
-/* Un pequeÃ±o ejemplo del uso de una tuberÃ­a en Unix */
+/* Un pequeñoo ejemplo del uso de una tubería en Unix */
 
 #include <stdio.h>
 #include <stdlib.h>
