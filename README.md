@@ -1,6 +1,6 @@
 Para compilar:
 
-gcc practica9.c 
+gcc try.c
 
 Para ejecturar
 
